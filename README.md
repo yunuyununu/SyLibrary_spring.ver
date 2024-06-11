@@ -1,2 +1,2 @@
 # syLibrary2
-sy - semiproject2 (spring)
+sy - Semiproject2 (spring)
