@@ -51,9 +51,9 @@
 
 ### 👩‍💻 팀원 소개
 * [도경민](https://github.com/mindyhere)
-* 박미현🙋‍♀️
+* [박미현](https://github.com/Miihyunee)
 * [양미영](https://github.com/didaldud)
-* [조연우](https://github.com/yunuyununu)
+* [조연우]🙌
 * [홍재희](https://github.com/jh91019)
 
 ![member](https://github.com/Miihyunee/LibraryinMarch/assets/151993240/85ed98a1-3da0-481a-9fdc-317824ecd381)
