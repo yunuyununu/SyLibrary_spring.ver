@@ -3,7 +3,7 @@
 
 국비지원 훈련과정 두번째 팀프로젝트를 스프링으로 전환한 소스코드 입니다.
 
-두번째 프로젝트 바로가기(https://github.com/yunuyununu/SYLibrary)
+두번째 프로젝트 바로가기(https://github.com/yunuyununu/SyLibraryProject)
 
 ## 🔖 목차
 [1. 프로젝트 개요](#-1.-프로젝트-개요)
